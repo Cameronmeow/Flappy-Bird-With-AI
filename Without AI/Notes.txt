@@ -1,0 +1,7 @@
+We will increase score only if bird has passed the right side of the pipe 
+we will add a trigger to know when the bird has passed the right side 
+and a trigger to when the bird has entered the pipe i.e passed the left hand side
+
+why left hand side because otherwise the score will keep on increasing if it is the right hand side of any pipe
+so basically we wont increase the counter if the left hand side of bird is the right hand side of the pipe while simultaneosly
+the bird's right side being behind the left hand side of a pipe
